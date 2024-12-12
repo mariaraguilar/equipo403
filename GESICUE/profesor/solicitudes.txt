@@ -1,0 +1,32 @@
+Solicitud enviada por el Profesor:
+Nombre: Juan Perez
+DNI: 12345678A
+Departamento: Informática
+Correo: juan.perez@gmail.com
+Fecha de envío: 2024-12-11
+Universidad Origen: Universidad A
+Universidad Destino: Universidad B
+Periodo: 2024-02-01 - 2024-06-30
+Estado: Pendiente
+
+Solicitud enviada por el Profesor:
+Nombre: Ana Garcia
+DNI: 87654321B
+Departamento: Física
+Correo: ana.garcia@gmail.com
+Fecha de envío: 2024-12-11
+Universidad Origen: Universidad C
+Universidad Destino: Universidad D
+Periodo: 2024-03-01 - 2024-07-31
+Estado: Pendiente
+
+Solicitud CANCELADA por el Profesor:
+Nombre: Juan Perez
+DNI: 12345678A
+Departamento: Informática
+
+Solicitud CANCELADA por el Profesor:
+Nombre: Ana Garcia
+DNI: 87654321B
+Departamento: Física
+
